@@ -5,7 +5,7 @@ This tool is ideal for data analysts, engineers, and developers working with leg
 # 📌 Overview
 The Red to CSV Conversion Tool simplifies the process of transforming .red files into .csv format, enabling seamless integration with data pipelines, spreadsheets, and analytics platforms.
 
-# 📌 Features
+# ✨ Features
 ✅ GUI-based interface for easy file selection and conversion
 
 ✅ Parses both API and Radar formatted .red files
