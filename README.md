@@ -27,3 +27,10 @@ Excel file with:
 > Browse and select a .red file
 
 > Click Run
+
+# ❤️ Support Me
+If you find this tool helpful and would like to support its development:
+
+💸 Donate via UPI : anuragkr.kashyap@ybl
+
+🌟 Star the project on GitHub
