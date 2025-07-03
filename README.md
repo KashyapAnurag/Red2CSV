@@ -36,6 +36,6 @@ If you find this tool helpful and would like to support its development:
   
 <img src="https://github.com/user-attachments/assets/9e6e0890-4f4a-4e42-9726-9e655ba70728" width="300" />
 
-  - PayPal: PayPal.Me/AnuragKashyap35.
+  - PayPal: PayPal.Me/AnuragKashyap35
 
 🌟 Star the project on GitHub
